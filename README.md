@@ -1,6 +1,6 @@
 # Yeardream 2026 May
 
-Python 3.12 데이터 분석 환경
+Python 3.12 데이터 분석 환경.
 ---
 
 ## 시작하기
